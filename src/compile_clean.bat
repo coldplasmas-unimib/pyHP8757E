@@ -1,0 +1,1 @@
+del dist /Q && del build /Q && pyinstaller.exe --onefile main.py
